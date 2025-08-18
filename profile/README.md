@@ -1,5 +1,5 @@
 <div style="text-align:center;">
-    <img src="./logo.svg" alt="Logo" width="800" height="250" style="display:block; margin:0 auto;" />
+    <img src="./logo.png" alt="Logo" width="800" height="250" style="display:block; margin:0 auto;" />
     <h2>Architecture Overview</h2>
     <img src="./infrastructure.png" alt="Infrastructure Diagram" width="700" height="400" style="display:block; margin:0 auto;" />
 </div>
